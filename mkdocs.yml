@@ -1,0 +1,7 @@
+site_name: HouseHunt
+site_url: https://jamils.github.io/HouseHunt
+repo_url: https://github.com/jamils/HouseHunt
+theme: 
+  name: material
+plugins:
+  - search
