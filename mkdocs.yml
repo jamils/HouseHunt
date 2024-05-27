@@ -3,5 +3,19 @@ site_url: https://jamils.github.io/HouseHunt
 repo_url: https://github.com/jamils/HouseHunt
 theme: 
   name: material
+  palette:
+    primary: purple
+    accent: light blue
+    - sceme: default
+    toggle:
+    icon: material/lightbulb
+    name: Switch to dark mode
+    -scheme: slate
+    toggle:
+    icon: material/lightbulb-outline
+    name: Switch to light mode
+  favicon: assets/home.svg
 plugins:
   - search
+extra_css:
+  - assets/custom.css
