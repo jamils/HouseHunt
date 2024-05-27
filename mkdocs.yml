@@ -16,6 +16,7 @@ theme:
         name: Switch to light mode
   favicon: assets/home.svg
   logo: assets/home.svg
+  custom_dir: overrides
 plugins:
   - search
 markdown_extensions:
