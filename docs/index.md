@@ -12,3 +12,4 @@ Hi! I'm hoping to buy a house, and looking for input. This website will be updat
 * [7800 Springbrook Dr](https://www.zillow.com/homes/7800-Springbrook-Dr-SE-Huntsville,-AL-35802)
 * [9009 Cannstatt Dr](https://www.zillow.com/homes/9009-Cannstatt-Dr-SE-Huntsville,-AL-35802)
 * [14009 Siniard Circ](https://www.zillow.com/homes/14009-Siniard-Cir-SE-Huntsville,-AL-35803)
+* [1112 Brookmeade St NW](https://www.valleymls.com/homes-for-sale/1112-Brookmeade-Street-Nw-Huntsville-AL-35816-370730796)
