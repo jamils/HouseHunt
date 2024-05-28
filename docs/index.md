@@ -11,5 +11,4 @@ Hi! I'm hoping to buy a house, and looking for input. This website will be updat
 * [6308 Maywick Dr](https://www.zillow.com/homes/6308-Maywick-Dr-Huntsville,-AL-35810)
 * [7800 Springbrook Dr](https://www.zillow.com/homes/7800-Springbrook-Dr-SE-Huntsville,-AL-35802)
 * [9009 Cannstatt Dr](https://www.zillow.com/homes/9009-Cannstatt-Dr-SE-Huntsville,-AL-35802)
-* [11315 Crestfield Dr](https://www.zillow.com/homes/11315-Crestfield-Dr-SE-Huntsville,-AL-35803)
 * [14009 Siniard Circ](https://www.zillow.com/homes/14009-Siniard-Cir-SE-Huntsville,-AL-35803)
