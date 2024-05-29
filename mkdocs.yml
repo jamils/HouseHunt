@@ -3,6 +3,11 @@ site_url: https://jamils.github.io/HouseHunt
 repo_url: https://github.com/jamils/HouseHunt
 theme: 
   name: material
+  icon:
+    repo: fontawesome/brands/github
+    logo: fontawesome/solid/house
+  custom_dir: overrides
+  favicon: assets/home.svg
   palette:
     - scheme: default
       primary: blue
@@ -14,9 +19,6 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
-  favicon: assets/home.svg
-  logo: assets/home.svg
-  custom_dir: overrides
 plugins:
   - search
 markdown_extensions:
