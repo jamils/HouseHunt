@@ -1,15 +1,11 @@
----
-comments: true
----
-
 # Welcome to my search for a house!
 
 Hi! I'm hoping to buy a house, and looking for input. This website will be updated as I move along. The current list of homes is below
 
-* [1002 Shiloh St](https://www.zillow.com/homes/1002-Shiloh-St-SE-Huntsville,-AL-35803)
-* [2607 Pioneer Rd](https://www.zillow.com/homes/2607-Pioneer-Rd-SW-Huntsville,-AL-35803)
-* [6308 Maywick Dr](https://www.zillow.com/homes/6308-Maywick-Dr-Huntsville,-AL-35810)
-* [7800 Springbrook Dr](https://www.zillow.com/homes/7800-Springbrook-Dr-SE-Huntsville,-AL-35802)
-* [9009 Cannstatt Dr](https://www.zillow.com/homes/9009-Cannstatt-Dr-SE-Huntsville,-AL-35802)
-* [14009 Siniard Circ](https://www.zillow.com/homes/14009-Siniard-Cir-SE-Huntsville,-AL-35803)
-* [1112 Brookmeade St NW](https://www.valleymls.com/homes-for-sale/1112-Brookmeade-Street-Nw-Huntsville-AL-35816-370730796)
+* [1002 Shilow St](1002-shiloh-st.md)
+* [2607 Pioneer Rd](2607-pioneer-rd.md)
+* [6308 Maywick Dr](6308-maywick-dr.md)
+* [7800 Springbrook Dr](7800-springbrook-dr.md)
+* [9009 Cannstatt Dr](9009-cannstatt-dr.md)
+* [14009 Siniard Circ](14009-siniard-cir.md)
+* [1112 Brookmeade St NW](1112-brookmeade-st-nw.md)
