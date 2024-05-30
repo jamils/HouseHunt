@@ -7,7 +7,7 @@ comments: true
 <img
     src="" 
     alt="image" 
-    width="350" 
+    width="400" 
     style="border:2px solid black">
 
 ### :map: Map

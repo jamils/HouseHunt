@@ -9,7 +9,7 @@ theme:
     admonition:
       info: fontawesome/solid/square-up-right
   custom_dir: overrides
-  favicon: fontawesome/solid/house
+  favicon: images/home.svg
   palette:
     - scheme: default
       primary: blue

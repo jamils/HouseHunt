@@ -7,7 +7,7 @@ comments: true
 <img
     src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/images/0/0/21851718.jpg" 
     alt="image" 
-    width="350" 
+    width="400" 
     style="border:2px solid black">
 
 ### :map: Map

@@ -10,3 +10,6 @@ Hi! I'm hoping to buy a :house_with_garden: house, and looking for input. This w
 * [11315 Crestfield Dr SE](11315-crestfield-dr-se.md)
 * [1210 Philpot Ave NE](1210-philpot-av-se.md)
 * [9032 Craigmont Rd](9032-craigmont-rd.md)
+* :new: [102 Ella Ct NW](102-ella-ct-nw.md)
+* :new: [142 Potters Wheel NW](142-potters-wheel-nw.md)
+* :new: [696 Falcon Rd SW](696-falcon-rd-sw.md)
