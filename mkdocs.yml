@@ -6,6 +6,8 @@ theme:
   icon:
     repo: fontawesome/brands/github
     logo: fontawesome/solid/house
+    admonition:
+      info: fontawesome/solid/square-up-right
   custom_dir: overrides
   favicon: assets/home.svg
   palette:
@@ -29,15 +31,21 @@ plugins:
   - search
 markdown_extensions:
   - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 extra_css:
-  - assets/custom.css
+  - stylesheets/extra.css
 
-nav:
-  - Home: index.md
-  - 1002 Shiloh St: 1002-shiloh-st.md
-  - 2607 Pioneer Rd: 2607-pioneer-rd.md
-  - 6308 Maywick Dr: 6308-maywick-dr.md
-  - 7800 Springbrook Dr: 7800-springbrook-dr.md
-  - 9009 Cannstatt Dr: 9009-cannstatt-dr.md
-  - 14009 Siniard Cir: 14009-siniard-cir.md
-  - 1112 Brookmeade St NW: 1112-brookmeade-st-nw.md
+# nav:
+#   - Home: index.md
+#   - 1002 Shiloh St: 1002-shiloh-st.md
+#   - 2607 Pioneer Rd: 2607-pioneer-rd.md
+#   - 6308 Maywick Dr: 6308-maywick-dr.md
+#   - 7800 Springbrook Dr: 7800-springbrook-dr.md
+#   - 9009 Cannstatt Dr: 9009-cannstatt-dr.md
+#   - 14009 Siniard Cir: 14009-siniard-cir.md
+#   - 1112 Brookmeade St NW: 1112-brookmeade-st-nw.md
