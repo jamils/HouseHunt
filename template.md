@@ -10,6 +10,8 @@ comments: true
     width="350" 
     style="border:2px solid black">
 
+### :map: Map
+
 ### :open_file_folder: Quick Facts
 
 | Description       | Value |
