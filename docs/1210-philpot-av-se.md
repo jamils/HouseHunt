@@ -8,7 +8,7 @@ comments: true
     src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/images/0/0/21861766.jpg" 
     alt="image" 
     width="350" 
-    style="border:2px solid white">
+    style="border:2px solid black">
 
 ### :open_file_folder: Quick Facts
 
@@ -29,6 +29,6 @@ comments: true
     <iframe width=700, height=500 frameBorder=0 src="https://www.valleymls.com/homes-for-sale/1210-Philpot-Avenue-Ne-Huntsville-AL-35811-371988343"></iframe>
 
 ??? info "Zillow"
-    [Zillow :link:](https://www.zillow.com/homedetails/1210-Philpot-Ave-NE-Huntsville-AL-35811)
+    [Zillow :link:](https://www.zillow.com/homes/1210-Philpot-Ave-NE-Huntsville,-AL-35811)
 
-    <iframe width=700, height=500 frameBorder=0 src="https://www.zillow.com/homedetails/1210-Philpot-Ave-NE-Huntsville-AL-35811"></iframe>
+    <iframe width=700, height=500 frameBorder=0 src="https://www.zillow.com/homes/1210-Philpot-Ave-NE-Huntsville,-AL-35811"></iframe>

@@ -8,7 +8,7 @@ comments: true
     src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/addl_picts/0/0/21860971-8.jpg" 
     alt="image" 
     width="350" 
-    style="border:2px solid white">
+    style="border:2px solid black">
 
 ### :open_file_folder: Quick Facts
 

@@ -8,7 +8,7 @@ comments: true
     src="" 
     alt="image" 
     width="350" 
-    style="border:2px solid white">
+    style="border:2px solid black">
 
 ### :open_file_folder: Quick Facts
 
