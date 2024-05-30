@@ -25,12 +25,12 @@ comments: true
 
 ### :globe_with_meridians: Web links
 
-??? info ":fontawesome-solid-mountain-sun: Valley MLS"
+??? info ":fontawesome-solid-mountain-sun:  Valley MLS"
     [ValleyMLS 	:link:]()
 
     <iframe width=700, height=500 frameBorder=0 src=""></iframe>
 
-??? info ":simple-zillow: Zillow"
+??? info ":simple-zillow:  Zillow"
     [Zillow :link:]()
 
     <iframe width=700, height=500 frameBorder=0 src=""></iframe>

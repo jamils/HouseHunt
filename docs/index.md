@@ -1,4 +1,4 @@
-# Welcome!
+# :wave_tone4: Welcome!
 
 Hi! I'm hoping to buy a :house_with_garden: house, and looking for input. This website will be updated as I move along. The current list of homes can be found below. 
 

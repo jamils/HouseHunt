@@ -27,12 +27,12 @@ comments: true
 
 ### :globe_with_meridians: Web links
 
-??? info ":fontawesome-solid-mountain-sun: Valley MLS"
+??? info ":fontawesome-solid-mountain-sun:  Valley MLS"
     [ValleyMLS 	:link:](https://www.valleymls.com/homes-for-sale/9612-Dortmund-Drive-Huntsville-AL-35803-360888464)
 
     <iframe width=700, height=500 frameBorder=0 src="https://www.valleymls.com/homes-for-sale/9612-Dortmund-Drive-Huntsville-AL-35803-360888464"></iframe>
 
-??? info ":simple-zillow: Zillow"
+??? info ":simple-zillow:  Zillow"
     [Zillow :link:](https://zillow.com/homes/9612-Dortmund-Drive-Huntsville,-AL-35803)
 
     <iframe width=700, height=500 frameBorder=0 src="https://zillow.com/homes/9612-Dortmund-Drive-Huntsville,-AL-35803"></iframe>

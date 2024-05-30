@@ -27,12 +27,12 @@ comments: true
 
 ### :globe_with_meridians: Web links
 
-??? info ":fontawesome-solid-mountain-sun: Valley MLS"
+??? info ":fontawesome-solid-mountain-sun:  Valley MLS"
     [ValleyMLS 	:link:](https://www.valleymls.com/homes-for-sale/9032-Craigmont-Road-Huntsville-AL-35802-369057914)
 
     <iframe width=700, height=500 frameBorder=0 src="https://www.valleymls.com/homes-for-sale/9032-Craigmont-Road-Huntsville-AL-35802-369057914"></iframe>
 
-??? info ":simple-zillow: Zillow"
+??? info ":simple-zillow:  Zillow"
     [Zillow :link:](https://zillow.com/homes/9032-Craigmont-Road-Huntsville,-AL-35802)
 
     <iframe width=700, height=500 frameBorder=0 src="https://zillow.com/homes/9032-Craigmont-Road-Huntsville,-AL-35802"></iframe>

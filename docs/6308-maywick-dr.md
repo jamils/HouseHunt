@@ -27,12 +27,12 @@ comments: true
 
 ### :globe_with_meridians: Web links
 
-??? info ":fontawesome-solid-mountain-sun: Valley MLS"
+??? info ":fontawesome-solid-mountain-sun:  Valley MLS"
     [ValleyMLS 	:link:](https://www.valleymls.com/homes-for-sale/6308-Maywick-Drive-Huntsville-AL-35810-360259911)
 
     <iframe width=700, height=500 frameBorder=0 src="https://www.valleymls.com/homes-for-sale/6308-Maywick-Drive-Huntsville-AL-35810-360259911"></iframe>
 
-??? info ":simple-zillow: Zillow"
+??? info ":simple-zillow:  Zillow"
     [Zillow :link:](https://www.zillow.com/homes/6308-Maywick-Dr-Huntsville,-AL-35810)
 
     <iframe width=700, height=500 frameBorder=0 src="https://www.zillow.com/homes/6308-Maywick-Dr-Huntsville,-AL-35810"></iframe>
