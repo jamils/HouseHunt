@@ -27,12 +27,12 @@ comments: true
 
 ### :globe_with_meridians: Web links
 
-??? info "Valley MLS"
+??? info ":fontawesome-solid-mountain-sun: Valley MLS"
     [ValleyMLS 	:link:](https://www.valleymls.com/homes-for-sale/1002-Shiloh-Street-Huntsville-AL-35803-365671216)
 
     <iframe width=700, height=500 frameBorder=0 src="https://www.valleymls.com/homes-for-sale/1002-Shiloh-Street-Huntsville-AL-35803-365671216"></iframe>
 
-??? info "Zillow"
+??? info ":simple-zillow: Zillow"
     [Zillow :link:](https://www.zillow.com/homes/1002-Shiloh-St-SE-Huntsville,-AL-35803)
 
     <iframe width=700, height=500 frameBorder=0 src="https://www.zillow.com/homes/1002-Shiloh-St-SE-Huntsville,-AL-35803"></iframe>

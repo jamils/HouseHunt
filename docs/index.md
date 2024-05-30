@@ -1,6 +1,6 @@
-# Welcome to my search for a house!
+# Welcome!
 
-Hi! I'm hoping to buy a :house_with_garden: house, and looking for input. This website will be updated as I move along. The current list of homes is below
+Hi! I'm hoping to buy a :house_with_garden: house, and looking for input. This website will be updated as I move along. The current list of homes can be found below. 
 
 * [1002 Shiloh St](1002-shiloh-st.md)
 * [2607 Pioneer Rd](2607-pioneer-rd.md)
@@ -13,3 +13,4 @@ Hi! I'm hoping to buy a :house_with_garden: house, and looking for input. This w
 * :new: [102 Ella Ct NW](102-ella-ct-nw.md)
 * :new: [142 Potters Wheel NW](142-potters-wheel-nw.md)
 * :new: [696 Falcon Rd SW](696-falcon-rd-sw.md)
+* :new: [9612 Dortmund Dr](9612-dortmund-dr.md)
