@@ -4,6 +4,12 @@ comments: true
 
 # 📫 1002 Shiloh Street
 
+<img
+    src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/addl_picts/0/0/21857170-26.jpg" 
+    alt="image" 
+    width="350" 
+    style="border:2px solid white">
+
 ### :open_file_folder: Quick Facts
 
 | Description       | Value |

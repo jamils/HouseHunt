@@ -4,16 +4,22 @@ comments: true
 
 # 📫 address
 
+<img
+    src="" 
+    alt="image" 
+    width="350" 
+    style="border:2px solid white">
+
 ### :open_file_folder: Quick Facts
 
 | Description       | Value |
 | ----------------: | :---- |
-| Price             | $289,000 |
-| Square Feet       | 2,009 |
-| $/sqft            | $143.82 |
+| Price             | $300,000 |
+| Square Feet       | 2,000 |
+| $/sqft            | $150.00 |
 | # of Bedrooms     | 4 |
 | # of Bathrooms    | 1 + 3/4 + 0.5 |
-| Lot size (acres)  | 0.41 |
+| Lot size (acres)  | 0.40 |
 
 ### :globe_with_meridians: Web links
 

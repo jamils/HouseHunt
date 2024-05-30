@@ -4,6 +4,12 @@ comments: true
 
 # 📫 1112 Brookmeade St NW
 
+<img
+    src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/addl_picts/0/0/21860971-8.jpg" 
+    alt="image" 
+    width="350" 
+    style="border:2px solid white">
+
 ### :open_file_folder: Quick Facts
 
 | Description       | Value |
