@@ -1,4 +1,5 @@
 site_name: House Hunt
+site_description: A website to catalog houses
 site_url: https://jamils.github.io/HouseHunt
 repo_url: https://github.com/jamils/HouseHunt
 theme: 
@@ -29,9 +30,12 @@ theme:
     - navigation.instant.progress
 plugins:
   - search
+  - macros
+  - open-in-new-tab
 markdown_extensions:
   - tables
   - admonition
+  - attr_list
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:

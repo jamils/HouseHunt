@@ -4,9 +4,7 @@ Hi! I'm hoping to buy a :house_with_garden: house, and looking for input. This w
 
 * [1002 Shiloh St](1002-shiloh-st.md)
 * [2607 Pioneer Rd](2607-pioneer-rd.md)
-* [6308 Maywick Dr](6308-maywick-dr.md)
 * [14009 Siniard Circ](14009-siniard-cir.md)
-* [1112 Brookmeade St NW](1112-brookmeade-st-nw.md)
 * [11315 Crestfield Dr SE](11315-crestfield-dr-se.md)
 * [1210 Philpot Ave NE](1210-philpot-av-se.md)
 * [9032 Craigmont Rd](9032-craigmont-rd.md)
