@@ -30,7 +30,7 @@ theme:
     - navigation.instant.progress
 plugins:
   - search
-  - macros
+  # - macros
   - open-in-new-tab
 markdown_extensions:
   - tables
