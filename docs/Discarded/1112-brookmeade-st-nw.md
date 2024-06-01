@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# :wastebasket: 1112 Brookmeade St NW
+# 🗑 1112 Brookmeade St NW
 
 <img
     src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/addl_picts/0/0/21860971-8.jpg" 

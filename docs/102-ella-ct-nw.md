@@ -33,6 +33,6 @@ comments: true
     <iframe width=700, height=500 frameBorder=0 src="https://www.valleymls.com/homes-for-sale/102-Nw-Ella-Court-Madison-AL-35758-364332750"></iframe>
 
 ??? info ":simple-zillow:  Zillow"
-    [Zillow :link:](https://www.zillow.com/homedetails/102-NW-Ella-Ct-Madison-AL-35758)
+    [Zillow :link:](https://www.zillow.com/homes/102-NW-Ella-Ct-Madison,-AL-35758)
 
-    <iframe width=700, height=500 frameBorder=0 src="https://www.zillow.com/homedetails/102-NW-Ella-Ct-Madison-AL-35758"></iframe>
+    <iframe width=700, height=500 frameBorder=0 src="https://www.zillow.com/homes/102-NW-Ella-Ct-Madison,-AL-35758"></iframe>

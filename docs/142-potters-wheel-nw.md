@@ -33,6 +33,6 @@ comments: true
     <iframe width=700, height=500 frameBorder=0 src="https://www.valleymls.com/homes-for-sale/142-Potters-Wheel-Nw-Madison-AL-35758-371500075"></iframe>
 
 ??? info ":simple-zillow:  Zillow"
-    [Zillow :link:](https://www.zillow.com/homedetails/142-Potters-Wheel-NW-Madison-AL-35758)
+    [Zillow :link:](https://www.zillow.com/homes/142-Potters-Wheel-NW-Madison,-AL-35758)
 
-    <iframe width=700, height=500 frameBorder=0 src="https://www.zillow.com/homedetails/142-Potters-Wheel-NW-Madison-AL-35758"></iframe>
+    <iframe width=700, height=500 frameBorder=0 src="https://www.zillow.com/homes/142-Potters-Wheel-NW-Madison,-AL-35758"></iframe>

@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# :wastebasket: 6308 Maywick Dr
+# 🗑 6308 Maywick Dr
 
 <img
     src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/images/0/0/21851718.jpg" 

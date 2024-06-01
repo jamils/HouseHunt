@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# :wastebasket: 9009 Cannstatt Dr
+# 🗑 9009 Cannstatt Dr
 
 [Zillow](https://www.zillow.com/homes/9009-Cannstatt-Dr-SE-Huntsville,-AL-35802)
 
