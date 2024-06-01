@@ -32,6 +32,7 @@ plugins:
   - search
   - macros
   - open-in-new-tab
+  - typeset
 markdown_extensions:
   - tables
   - admonition
