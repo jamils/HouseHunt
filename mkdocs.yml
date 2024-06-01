@@ -32,11 +32,11 @@ plugins:
   - search
   - macros
   - open-in-new-tab
-  - typeset
+  - glightbox
 markdown_extensions:
   - tables
   - admonition
-  # - attr_list # might break typset?
+  - attr_list
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
