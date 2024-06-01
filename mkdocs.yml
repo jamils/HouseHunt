@@ -36,7 +36,7 @@ plugins:
 markdown_extensions:
   - tables
   - admonition
-  - attr_list
+  # - attr_list # might break typset?
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
