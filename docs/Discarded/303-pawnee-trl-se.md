@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# 📫 303 Pawnee Trail SE
+# 🗑 303 Pawnee Trail SE
 
 <img
     src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/images/0/0/21862882.jpg" 
