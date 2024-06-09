@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# 📫 1002 Shiloh St
+# 📪 1002 Shiloh St
 
 <img
     src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/addl_picts/0/0/21857170-26.jpg" 
