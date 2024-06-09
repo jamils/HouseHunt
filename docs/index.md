@@ -12,3 +12,4 @@ Hi! I'm hoping to buy a :house_with_garden: house, and looking for input. This w
 * :new: [142 Potters Wheel NW](142-potters-wheel-nw.md)
 * :new: [696 Falcon Rd SW](696-falcon-rd-sw.md)
 * :new: [9612 Dortmund Dr](9612-dortmund-dr.md)
+* :new: [600 Wellingburg Rd SE](600-wellingburg-road-se.md)
