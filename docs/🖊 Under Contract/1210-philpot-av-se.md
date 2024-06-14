@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# 📫 1210 Philpot Ave SE
+# 🖊 1210 Philpot Ave SE
 
 <img
     src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/images/0/0/21861766.jpg" 

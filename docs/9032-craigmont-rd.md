@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# 📫 9032 Craigmont Rd
+# 📪 9032 Craigmont Rd
 
 <img
     src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/images/0/0/21859734.jpg" 

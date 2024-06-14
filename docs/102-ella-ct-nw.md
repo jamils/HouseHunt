@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# 📫 102 Ella Ct
+# 📪 102 Ella Ct
 
 <img
     src="https://photos.zillowstatic.com/fp/daa56fb5fd69212edee90aea051b127e-uncropped_scaled_within_1536_1152.webp" 

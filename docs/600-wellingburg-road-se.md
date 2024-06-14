@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# 📫 600 Wellingburg Rd SE
+# 📪 600 Wellingburg Rd SE
 
 <img
     src="https://realestatedigital.propertiescdn.com/ListingImages/alnaris-p/images/0/0/21862801.jpg" 

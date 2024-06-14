@@ -48,6 +48,15 @@ sqft_price = round((price/sqft), 3)
 
 lot_size = float(''.join(c for c in lot_size if (c.isdigit() or c =='.')))
 
+### Go to Google Maps and get embedded map link
+
+# driver.get("https://www.google.com/maps/place/" + address.lower().replace(" ", "-"))
+
+search_box = driver.find_element(By.ID, "searchboxinput")
+search_box.send_keys(address)
+
+search_button = driver.find_element(By.ID, "searchbox-searchbutton")
+search_button.click()
 
 # Write markdown file
 
@@ -56,6 +65,8 @@ filename = "docs/" + street.lower().replace(" ", "-") + ".md"
 ### Construct zillow URL
 
 zillow_url = "https://www.zillow.com/homes/" + street.replace(" ", "-") + "-" + city.replace(" ", "-") + "," + "-" + state.replace(" ", "-")
+
+### Write to file
 
 with open(filename, "w", encoding="utf-8") as f:
     f.write("---\n")

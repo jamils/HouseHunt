@@ -2,7 +2,7 @@
 comments: true
 ---
 
-# 📫 142 Potters Wheel
+# 🖊 142 Potters Wheel
 
 <img
     src="https://photos.zillowstatic.com/fp/4a7bb2faf5781eb7231ff51958e5e1ad-uncropped_scaled_within_1536_1152.webp" 
